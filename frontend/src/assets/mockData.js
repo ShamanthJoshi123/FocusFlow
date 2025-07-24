@@ -1,7 +1,7 @@
 export const mockUsers = [
     {
-      username: "shamanth",
-      password: "focus123",
+      username: "abc",
+      password: "123",
       name: "Shamanth Joshi",
       role: "UI/UX Designer",
     },
